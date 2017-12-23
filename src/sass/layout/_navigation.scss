@@ -1,0 +1,23 @@
+/* _-_-_- layout/NAVIGATION -_-_-_ */
+
+nav {
+    .primary--nav {
+        display: inline-flex;
+        border-top: 3px solid black;
+        border-bottom: 3px solid black;
+    }
+
+    ul {
+        display: inline-flex;
+        li {
+            padding-right: 12px;
+
+            a {
+                font-family: "Noto Serif";
+                font-size: 18pt;
+                text-decoration: none;
+                color: black;
+            }
+        }
+    }
+}
