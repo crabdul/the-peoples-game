@@ -1,11 +1,23 @@
 /* _-_-_- layout/GRIDS -_-_-_ */
 
 $column--width: 1000px;
+$column--narrow--width: 600px;
 
 
 .grid {
     display: grid;
     grid-template-columns: 1fr $column--width 1fr;
+    grid-template-areas: ". content .";
+
+    .container {
+        grid-area: content;
+    }
+
+}
+
+.narrow--grid {
+    display: grid;
+    grid-template-columns: 1fr $column--narrow--width 1fr;
     grid-template-areas: ". content .";
 
     .container {
