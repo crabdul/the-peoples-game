@@ -9,10 +9,10 @@
     </div>
     <div class="article--summary">
       <p>{{ .Description }}</p>
-      {{ if .Params.image_1 }}<img src="{{ .Params.image_1 }}" alt="{{ .Title }}" width="100%" />{{ end }}
-      {{ if .Params.image_2 }}<img src="{{ .Params.image_2 }}" alt="{{ .Title }}" width="100%" />{{ end }}
-      {{ if .Params.image_3 }}<img src="{{ .Params.image_3 }}" alt="{{ .Title }}" width="100%" />{{ end }}
-      {{ if .Params.image_4 }}<img src="{{ .Params.image_4 }}" alt="{{ .Title }}" width="100%" />{{ end }}
+      {{ if .Params.image_1 }}<img src="{{ .Params.image_1.image }}" alt="{{ .Params.image_1.alt }}" width="100%" /><blockquote>{{ .Params.image_1.description }} </blockquote> {{ end }}
+      {{ if .Params.image_2 }}<img src="{{ .Params.image_2.image }}" alt="{{ .Params.image_2.alt }}" width="100%" /><blockquote>{{ .Params.image_2.description }} </blockquote> {{ end }}
+      {{ if .Params.image_3 }}<img src="{{ .Params.image_3.image }}" alt="{{ .Params.image_3.alt }}" width="100%" /><blockquote>{{ .Params.image_3.description }} </blockquote> {{ end }}
+      {{ if .Params.image_4 }}<img src="{{ .Params.image_4.image }}" alt="{{ .Params.image_4.alt }}" width="100%" /><blockquote>{{ .Params.image_4.description }} </blockquote> {{ end }}
 
 
       {{ .Content }}
