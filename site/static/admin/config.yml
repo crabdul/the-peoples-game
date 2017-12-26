@@ -25,13 +25,17 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: Author, name: author, widget: string}
       - {label: "Intro Blurb", name: "description", widget: "text"}
-      - label: "Photos"
-        name: "photos"
-        widget: "list"
-        fields:
-        - {label: "Image", name: "image", widget: "image"}
-        - {label: "Description", name: "description", widget: "string"} 
-        - {label: Alt, name: alt, widget: string}
+      - {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Description, name: description, widget: string}, {label: Alt, name: alt, widget: string}], required: false}
+      - {label: Image2, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Description, name: description, widget: string}, {label: Alt, name: alt, widget: string}], required: false}
+      - {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Description, name: description, widget: string}, {label: Alt, name: alt, widget: string}], required: false}
+      - {label: Image4, name: image4, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Description, name: description, widget: string}, {label: Alt, name: alt, widget: string}], required: false}
+      - {label: Image5, name: image5, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Description, name: description, widget: string}, {label: Alt, name: alt, widget: string}], required: false}
+      - {label: Image6, name: image6, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Description, name: description, widget: string}, {label: Alt, name: alt, widget: string}], required: false}
+      - {label: Image7, name: image7, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Description, name: description, widget: string}, {label: Alt, name: alt, widget: string}], required: false}
+      - {label: Image8, name: image8, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Description, name: description, widget: string}, {label: Alt, name: alt, widget: string}], required: false}
+      - {label: Image9, name: image9, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Description, name: description, widget: string}, {label: Alt, name: alt, widget: string}], required: false}
+      - {label: Image10, name: image10, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Description, name: description, widget: string}, {label: Alt, name: alt, widget: string}], required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
     files:
@@ -39,9 +43,29 @@ collections: # A list of collections the CMS should be able to edit
         label: "Contact Page"
         name: "contact"
         fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Logo, name: logo, widget: image}
           - {label: Body, name: body, widget: markdown}
+          - label: Contact Entries
+            name: contact_entries
+            widget: list
+            fields:
+              - label: Heading
+                name: heading
+                widget: string
+              - label: Text
+                name: text
+                widget: text
       - file: "site/content/about/_index.md"
         label: "About Page"
         name: "about"
         fields:
-          - {label: Body, name: body, widget: markdown}
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Values
+            name: values
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: text}
+              - {label: Image, name: imageUrl, widget: image}
