@@ -40,7 +40,7 @@ gulp.task("sass", () => (
 ));
 
 gulp.task("css", () => (
-  gulp.src("./src/sass/cms.css")
+  gulp.src("./src/css/cms.css")
   .pipe(gulp.dest("./dist/css"))
   .pipe(browserSync.stream())
 ));
