@@ -1,33 +1,28 @@
-.articles--page {
-    .list--item {
-        margin: 16px 0;
-    }
+.list--item {
+    margin: 16px 0;
 }
 
-
-.article--content {
+.item--content {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-areas: "header image";
     grid-gap: 24px;
-
-    .article--header {
+    .item--header {
         grid-area: header;
     }
-
-    .article--image--container {
+    .item--image--container {
         grid-area: image;
-
         img {
             width: 100%;
         }
     }
-
-    .description {
+    .item--summary {
+        border-left: 2px solid firebrick;
+        font-size: 15pt;
+        padding-left: 8px;
+    }
+    .item--description {
         margin: 40px 0;
         line-height: 1.5rem;
-    }
-    p {
-        font-size: 15pt;
     }
 }
