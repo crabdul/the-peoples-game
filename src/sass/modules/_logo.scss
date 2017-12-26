@@ -1,18 +1,20 @@
 /* _-_-_- modules/LOGO -_-_-_ */
 .pre--title__svg {
-    letter-spacing: -0.1em;
+    letter-spacing: 0em;
     fill: #F44336;
+    transform: scale(1, 0.7);
+
 }
 .main--title__svg {
-    letter-spacing: -0.3em;
-    transform: scale(1, 1.35);
+    letter-spacing: -0.2em;
+    transform: scale(1, 0.7);
 }
 .main--title__svg--apostrophe {
-    letter-spacing: -0.03em;
+    letter-spacing: -0.02em;
 }
-.main--title__svg--me {
-    letter-spacing: -0.11em;
-}
-.main--title__svg--op {
-    letter-spacing: -0.10em;
-}
+// .main--title__svg--me {
+//     letter-spacing: -0.11em;
+// }
+// .main--title__svg--op {
+//     letter-spacing: -0.10em;
+// }

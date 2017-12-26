@@ -38,11 +38,6 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     files:
-      - file: "site/content/_index.md"
-        label: "Footer"
-        name: "footer"
-        fields:
-          - {label: Description, name: description, widget: string}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"

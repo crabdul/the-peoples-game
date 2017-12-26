@@ -7,8 +7,15 @@
 }
 
 // TYPOGRAPHY
+
+@font-face {
+  font-family: "Delirium";
+  src: url("/fonts/delirium.ttf");
+}
+
 body {
   font-family: "EB Garamond", serif;
+  line-height: 1.3rem;
 }
 
 
@@ -22,19 +29,19 @@ body {
 }
 
 .title {
-  font-size: 18pt;
+  font-size: 16pt;
   margin-top: 8px;
   margin-bottom: 8px;
 }
 
-.subtitle {
-  font-size: 14pt;
+.snippet {
+  font-size: 12pt;
   margin-top: 8px;
   margin-bottom: 8px;
 }
 
 .more {
-  font-size: 14pt;
+  font-size: 12pt;
 }
 
 .list--inline {

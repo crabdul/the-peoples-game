@@ -1,1 +1,36 @@
 /* _-_-_- pages/CONTACT -_-_-_ */
+
+.contact--content {
+    margin: 64px 0;
+    font-size: 14pt;
+    line-height: 1.6rem;
+}
+
+.contact--form {
+    form {
+        @include center-block();
+        width: 320px;
+        padding-bottom: 64px;
+    }
+
+    fieldset {
+        border: none;
+        margin: 8px 0;
+        width: 100%;
+    }
+    textarea {
+        width: 100%;
+        padding-left: 10px;
+        padding-top: 8px;
+        border: 1px solid lightgray;
+    }
+    input {
+        height: 24px;
+        padding-left: 8px;
+        width: 100%
+    }
+
+    button {
+        padding: 4px;
+    }
+}
