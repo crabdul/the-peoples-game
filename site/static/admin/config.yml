@@ -25,12 +25,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: Author, name: author, widget: string}
       - {label: "Intro Blurb", name: "description", widget: "text"}
-      - label: Photos
-        name: photos
-        widget: list
+      - label: "Photos"
+        name: "photos"
+        widget: "list"
         fields:
-        - {label: Image, name: image, widget: image}
-        - {label: Description, name: description, widget: string} 
+        - {label: "Image", name: "image", widget: "image"}
+        - {label: "Description", name: "description", widget: "string"} 
         - {label: Alt, name: alt, widget: string}
   - name: "pages"
     label: "Pages"
@@ -44,12 +44,4 @@ collections: # A list of collections the CMS should be able to edit
         label: "About Page"
         name: "about"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - label: Values
-            name: values
-            widget: list
-            fields:
-              - {label: Heading, name: heading, widget: string}
-              - {label: Text, name: text, widget: text}
-              - {label: Image, name: imageUrl, widget: image}
+          - {label: Body, name: body, widget: markdown}
