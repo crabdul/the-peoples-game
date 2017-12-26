@@ -1,16 +1,15 @@
 {{ partial "head" . }}
 {{ partial "nav" . }}
 
-<div class="mw7 center ph3 pt4">
 
-  {{ range $index, $element := .Params.values }}
+  <!-- {{ range $index, $element := .Params.values }}
     {{ if modBool $index 2 }}
       {{ partial "media-block" $element }}
     {{ else }}
       {{ partial "media-block-reverse" $element }}
     {{ end }}
-  {{ end }}
+  {{ end }} -->
 
-</div>
+{{ .Content }}
 
 {{ partial "footer" . }}
