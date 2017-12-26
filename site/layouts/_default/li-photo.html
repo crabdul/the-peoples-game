@@ -1,0 +1,24 @@
+<a href="{{ .Permalink }}" class="no--underline black--text">
+    <div class="photo--card--content">
+            <div class="photo--card--header">
+                    <h2 class="title">{{ .Title }}</h2>
+                </div>
+        <div class="photo--card--summary subtitle">
+            <p class="subtitle">{{ .Description }}</p>
+        </div>
+        <div class="photo--card--image--container">
+            <div class="photo--card--image--item">
+                <img src="{{ .Params.Image1 }}" alt="{{ .Params.Image1 }}">
+            </div>
+
+            <div class="photo--card--image--item">
+                <img src="{{ .Params.Image2 }}" alt="{{ .Params.Image2 }}">
+            </div>
+
+            <div class="photo--card--image--item">
+                <img src="{{ .Params.Image3 }}" alt="{{ .Params.Image3 }}">
+            </div>
+        </div>
+    </div>
+
+</a>

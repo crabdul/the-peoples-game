@@ -5,3 +5,53 @@
   overflow: auto;
   zoom: 1;
 }
+
+// TYPOGRAPHY
+section {
+  font-family: "EB Garamond", serif;
+}
+
+
+// HELPERS
+.no--underline {
+  text-decoration: none;
+}
+
+.black--text {
+  color: black;
+}
+
+.title {
+  font-size: 18pt;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.subtitle {
+  font-size: 14pt;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.more {
+  font-size: 14pt;
+}
+
+.list--inline {
+  display: inline-flex;
+}
+
+.center--block {
+  @include center-block();
+  width: fit-content;
+}
+
+.right--block {
+  width: fit-content;
+  margin-left: auto;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}

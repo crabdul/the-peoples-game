@@ -1,19 +1,39 @@
 /* _-_-_- layout/NAVIGATION -_-_-_ */
 
 nav {
-    .primary--nav {
-        display: inline-flex;
-        border-top: 3px solid black;
-        border-bottom: 3px solid black;
+    margin-top: 16px;
+    margin-bottom: 8px;
+    .logo { 
+        grid-area: logo;
+        margin-left: auto;
+        svg{
+            width: 100%;
+        }
+    }
+
+    .nav--container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-areas: 'navbar . logo';
+        grid-gap: 16px;
+        border-bottom: 2px solid black;
+        .navbar {
+            grid-area: navbar;
+            position: relative;
+            margin-bottom: 8px;
+        }
     }
 
     ul {
+        position: absolute;
+        bottom: 0px;
         display: inline-flex;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        width: 100%;
         li {
-            padding-right: 12px;
-
             a {
-                font-family: "Noto Serif";
+                font-family: "EB Garamond";
                 font-size: 18pt;
                 text-decoration: none;
                 color: black;

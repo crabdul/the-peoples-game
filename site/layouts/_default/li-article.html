@@ -1,0 +1,16 @@
+<a href="{{ .Permalink }}" class="no--underline black--text">
+	<div class="article--card--header">
+		<h2 class="article--card--title">{{ .Title }}</h2>
+	</div>
+	<!-- <p class="mid-gray lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p> -->
+	<div class="article--card--content">
+			<div class="article--card--image--container">
+					<img src="{{ .Params.Image }}" alt="{{ .Params.Image }}">
+			</div>
+			<div class="article--card--summary">
+					<p class="mb0">{{ .Description }}</p>
+					<p class="read--article">Read more →</p>
+			</div>
+	</div>
+
+</a>

@@ -1,11 +1,3 @@
-// Each line imports all SCSS files of a group
-
-// 3rd party frameworks
-@import 'vendors/import-vendors';
-
-// User modifications of above frameworks
-@import 'vendors-extensions/import-vendors-extensions';
-
 // Sass-related functions, mixins, variables, etc.
 @import 'utils/import-utils';
 
@@ -20,6 +12,3 @@
 
 // Page-specific styles
 @import 'pages/import-pages';
-
-// Changing site templates
-@import 'themes/import-themes';

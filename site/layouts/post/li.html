@@ -1,0 +1,17 @@
+<a href="{{ .Permalink }}" class="no--underline black--text">
+
+    <div class="article--content">
+            <div class="article--header">
+                    <h2 class="article--title">{{ .Title }}</h2>
+                    <div class="article---summary">
+                            <p class="description">{{ .Description }}</p>
+                            <p class="read--article">Read more →</p>
+                    </div>
+                </div>
+            <div class="article--image--container">
+                    <img src="{{ .Params.Image }}" alt="{{ .Params.Image }}">
+            </div>
+
+    </div>
+
+</a>

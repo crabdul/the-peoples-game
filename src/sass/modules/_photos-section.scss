@@ -1,0 +1,23 @@
+.photos--wrapper {
+    border-top: 2px solid black;
+}
+
+.photo--card--image--container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 16px;
+    margin-top: 64px;
+    margin-bottom: 16px;
+    .photo--card--image--item {
+        img {
+            width: 100%;
+        }
+    }
+}
+
+@media screen and (min-width: $column--width) {
+    grid-template-columns: 1fr;
+}
+
+
+.photo--card--image--item {}

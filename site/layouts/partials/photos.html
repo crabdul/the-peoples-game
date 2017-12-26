@@ -1,0 +1,19 @@
+<section class="photos">
+    	<div class="grid">
+                <div class="container">
+                    <div class="photos--wrapper">
+                            {{ range first 1 (where .Data.Pages "Type" "photos") }}
+                                <div class="article--card">
+                                    {{ .Render "li-photo" }}
+                                </div>
+                            {{ end }}
+                    </div>
+        
+                    <div class="">
+                        <a href="/post" class="more no--underline black--text">See more</a>
+                    </div>
+        
+                </div>
+            </div>
+            </div>
+</section>

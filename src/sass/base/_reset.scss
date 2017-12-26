@@ -1,5 +1,10 @@
 /* _-_-_- base/RESET -_-_-_ */
 
+* {
+	margin: 0;
+	padding: 0;
+}
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {

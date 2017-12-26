@@ -1,0 +1,33 @@
+.articles--page {
+    .list--item {
+        margin: 16px 0;
+    }
+}
+
+
+.article--content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "header image";
+    grid-gap: 24px;
+
+    .article--header {
+        grid-area: header;
+    }
+
+    .article--image--container {
+        grid-area: image;
+
+        img {
+            width: 100%;
+        }
+    }
+
+    .description {
+        margin: 40px 0;
+        line-height: 1.5rem;
+    }
+    p {
+        font-size: 15pt;
+    }
+}

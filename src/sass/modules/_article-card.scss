@@ -1,0 +1,57 @@
+/* _-_-_- modules/ARTICLE-CARD -_-_-_ */
+
+.articles {
+    margin-bottom: 8px;
+}
+
+.articles--wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1px 1fr 1px 1fr;
+    grid-gap: 8px;
+    margin-top: 8px;
+    
+    ul {
+        display: inline-flex;
+
+        li {
+            margin: 0 8px;
+        }
+
+    }
+
+    .divider {
+        background-color: black;
+        margin-top: 96px;
+    }
+}
+
+.article--card {
+    width: 100%;
+    // background-color: pink;
+}
+
+.article--card--header {
+    height: 96px;
+}
+
+.article--card--image--container {
+
+    img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+}
+
+.article--card--summary {
+    margin: 12px 0;
+
+    p {
+        font-size: 14pt;
+        line-height: 1.3rem;
+    }
+}
+
+.read--article {
+    margin-top: 8px;
+}

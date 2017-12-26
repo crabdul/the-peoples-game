@@ -1,0 +1,22 @@
+{{ partial "head" . }}
+{{ partial "nav" . }}
+
+<!--
+{{ partial "jumbotron" (dict "imageUrl" "/img/blog-index.jpg" "title" "Latest stories") }}
+-->
+
+<section class="articles--page">
+    <div class="grid">
+        <div class="container">
+            <ul>
+                {{ range .Data.Pages }}
+                    <div class="list--item">
+                        {{ .Render "li"}}
+                    </div>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+</section>
+
+{{ partial "footer" . }}
