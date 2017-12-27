@@ -2,15 +2,19 @@
 {{ partial "nav" . }}
   <div class="narrow--grid article">
     <div class="container">
-    <h1 class="article--title">{{.Title}}</h1>
-    <div class="header--info">
+    <h1 class="single--title">{{.Title}}</h1>
+    <div class="single--header">
         <p>{{ .Params.Author }}</p>
       <p>{{ .Date.Format "2 Jan 2006" }} ∙ Read in {{ .ReadingTime }} minutes</p>
     </div>
-    <div class="article--summary">
+    <div class="single--snippet">
       <p>{{ .Description }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" width="100%" />{{ end }}
-      {{ .Content }}
+    </div>
+    <div class="single--image">
+        {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" width="100%" />{{ end }}
+    </div>
+    <div class="single--content">
+        {{ .Content }}
     </div>
     </div>
   </div>

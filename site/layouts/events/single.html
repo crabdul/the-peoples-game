@@ -1,0 +1,21 @@
+{{ partial "head" . }} {{ partial "nav" . }}
+<div class="narrow--grid article">
+    <div class="container">
+        <h1 class="title">{{.Title}}</h1>
+        <div class="header--info">
+            {{ $t := (time .Params.EventDate) }}
+            <p> {{ $t.Format "2 Jan 2006" }} ∙ {{ .Params.Time }}</p>
+            <p>{{ .Params.Location }} </p>
+            {{ if( .Params.Facebook )}}
+            {{ $l := .Params.Facebook }} 
+            {{ partial "social-icon" (dict "link" $l ) }}
+            {{ end }}
+        </div>
+        <div class="article--summary">
+            <p>{{ .Description }}</p>
+            {{ if .Params.image }}
+            <img src="{{ .Params.image }}" alt="{{ .Title }}" width="100%" />{{ end }} {{ .Content }}
+        </div>
+    </div>
+</div>
+{{ partial "footer" . }}

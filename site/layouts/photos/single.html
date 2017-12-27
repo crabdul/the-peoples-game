@@ -1,19 +1,26 @@
-{{ partial "head" . }}
-{{ partial "nav" . }}
-  <div class="narrow--grid article">
-    <div class="container">
-    <h1 class="article--title">{{.Title}}</h1>
-    <div class="header--info">
-        <p>{{ .Params.Author }}</p>
+{{ partial "head" . }} {{ partial "nav" . }}
+<div class="narrow--grid article">
+  <div class="container">
+    <h1 class="single--title">{{.Title}}</h1>
+    <div class="single--header">
+      <p>{{ .Params.Author }}</p>
       <p>{{ .Date.Format "2 Jan 2006" }}</p>
     </div>
-    <div class="article--summary">
+    <div class="single--snippet">
       <p>{{ .Description }}</p>
-      {{ range $el := .Params.Photos }}
-      <img src="{{ $el.Image }} " alt="{{ $el.Alt }} ">
-      <blockquote>{{ $el.Description }}</blockquote>
+    </div>
+    {{ range $el := .Params.Photos }}
+    <div class="photo--image--box effect7">
+      <div class="single--image">
+        <img src="{{ $el.Image }} " alt="{{ $el.Alt }} ">
+      </div>
+      {{ if($el.Description)}}
+      <div class="photo--image--description">
+          <p>{{ $el.Description }}</p>
+      </div>
       {{ end }}
     </div>
-    </div>
+    {{ end }}
   </div>
+</div>
 {{ partial "footer" . }}

@@ -4,7 +4,7 @@
                     <h2 class="title">{{ .Title }}</h2>
                 </div>
         <div class="photo--card--summary subtitle">
-            <p class="subtitle">{{ .Description }}</p>
+            <p class="snippet">{{ .Description }}</p>
         </div>
         <div class="photo--card--image--container">
                 {{ range $el := first 3 .Params.Photos }}
