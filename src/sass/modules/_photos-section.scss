@@ -1,6 +1,9 @@
 .photos--wrapper {
     border-top: 2px solid black;
 }
+.photo--card--header {
+    margin: 16px 0;
+}
 
 .photo--card--image--container {
     display: grid;
@@ -15,9 +18,11 @@
     }
 }
 
+.photo--card--summary {
+    width: 66%;
+}
+
 @media screen and (min-width: $column--width) {
     grid-template-columns: 1fr;
 }
 
-
-.photo--card--image--item {}

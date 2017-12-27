@@ -9,8 +9,9 @@
     </div>
     <div class="article--summary">
       <p>{{ .Description }}</p>
-      {{ range $index, $el := .Params.photos }}
-      <img src="{{ $el.Image }}" alt="{{ $el.Alt }}" width="100%" /><blockquote>{{ $el.Description }} </blockquote>
+      {{ range $el := .Params.Photos }}
+      <img src="{{ $el.Image }} " alt="{{ $el.Alt }} ">
+      <blockquote>{{ $el.Description }}</blockquote>
       {{ end }}
     </div>
     </div>

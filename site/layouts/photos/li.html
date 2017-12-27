@@ -9,7 +9,9 @@
                         </div>
                     </div>
                 <div class="item--image--container">
-                        <img src="{{ .Params.Image_1.Image }}" alt="{{ .Params.Image_1.Alt }}">
+                       {{ range $el := first 1 .Params.Photos }}
+                       <img src="{{ $el.image }} " alt="{{ $el.alt }} ">
+                       {{ end }}
                 </div>
     
         </div>

@@ -7,17 +7,13 @@
             <p class="subtitle">{{ .Description }}</p>
         </div>
         <div class="photo--card--image--container">
-            <div class="photo--card--image--item">
-                <img src="{{ .Params.Image_1.Image }}" alt="{{ .Params.Image_1.Alt }}">
-            </div>
+                {{ range $el := first 3 .Params.Photos }}
+                <div class="photo--card--image--item">
+                    <img src="{{ $el.image }} " alt="{{ $el.alt }}">
+                </div>
+                {{ end }}
 
-            <div class="photo--card--image--item">
-                <img src="{{ .Params.Image_2.Image }}" alt="{{ .Params.Image_2.Alt }}">
-            </div>
 
-            <div class="photo--card--image--item">
-                <img src="{{ .Params.Image_3.Image }}" alt="{{ .Params.Image_3.Alt }}">
-            </div>
         </div>
     </div>
 
