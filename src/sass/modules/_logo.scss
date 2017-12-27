@@ -1,4 +1,8 @@
 /* _-_-_- modules/LOGO -_-_-_ */
+.logo {
+    margin-left: 0px !important;
+}
+
 .pre--title__svg {
     letter-spacing: 0em;
     fill: #F44336;
@@ -12,13 +16,7 @@
 .main--title__svg--apostrophe {
     letter-spacing: -0.02em;
 }
-// .main--title__svg--me {
-//     letter-spacing: -0.11em;
-// }
-// .main--title__svg--op {
-//     letter-spacing: -0.10em;
-// }
 
 svg {
-    transform: translate3d(0,25px,0);
+    // background-color: pink;
 }

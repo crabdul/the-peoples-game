@@ -13,14 +13,11 @@ footer {
             grid-gap: 16px;
         }
     }
-
     li {
         margin: 8px 0;
     }
-
     svg {
-        margin-right: 8px;
-        width: 24px;
+        // not sure why this is needed
         transform: translate3d(0,2px,0);
     }
 }
