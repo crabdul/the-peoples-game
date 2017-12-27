@@ -13,16 +13,29 @@ nav {
 
     .nav--container {
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
-        grid-template-areas: 'navbar . logo';
-        grid-gap: 16px;
+        grid-template-columns: 1fr;
+        grid-template-areas: 'logo'
+                             'navbar';
         border-bottom: 2px solid black;
+        height: 140px;
+
         .navbar {
             grid-area: navbar;
             position: relative;
             margin-bottom: 8px;
         }
     }
+    @media screen and (min-width: $column--width) {
+        .nav--container {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-areas: 'navbar . logo';
+            grid-gap: 16px;
+            border-bottom: 2px solid black;
+            height: fit-content;
+    }
+}
+
 
     ul {
         position: absolute;
@@ -41,4 +54,15 @@ nav {
             }
         }
     }
+
+    @media screen and (max-width: $column--width) {
+        ul {
+            text-align: center;
+        }
+
+        .right--block {
+            margin-right: auto;
+        }
+    }
+
 }

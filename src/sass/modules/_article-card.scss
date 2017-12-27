@@ -4,9 +4,12 @@
     margin-bottom: 8px;
 }
 
+
+
+
 .articles--wrapper {
     display: grid;
-    grid-template-columns: 1fr 1px 1fr 1px 1fr;
+    grid-template-columns: 1fr;
     grid-gap: 8px;
     margin-top: 8px;
     
@@ -22,6 +25,7 @@
     .divider {
         background-color: black;
         margin-top: 88px;
+        display: none;
     }
 }
 
@@ -52,6 +56,27 @@
     }
 }
 
+.article--card--content {
+    border-bottom: 1px solid black;
+}
+
 .read--article {
     margin-top: 8px;
+}
+
+@media screen and (min-width: 1000px) {
+    .articles--wrapper {
+        display: grid;
+        grid-template-columns: 1fr 1px 1fr 1px 1fr;
+        grid-gap: 8px;
+        margin-top: 8px;
+        .divider {
+            display: inline;
+        }
+    }
+
+    .article--card--content {
+        border: none;
+    }
+
 }

@@ -7,7 +7,7 @@
 
 .photo--card--image--container {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
     grid-gap: 16px;
     margin-top: 64px;
     margin-bottom: 16px;
@@ -19,10 +19,24 @@
 }
 
 .photo--card--summary {
-    width: 66%;
+    width: 100%;
 }
 
 @media screen and (min-width: $column--width) {
-    grid-template-columns: 1fr;
+    .photo--card--image--container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 16px;
+        margin-top: 64px;
+        margin-bottom: 16px;
+        .photo--card--image--item {
+            img {
+                width: 100%;
+            }
+        }
+    }
+    .photo--card--summary {
+        width: 66%;
+    }
 }
 

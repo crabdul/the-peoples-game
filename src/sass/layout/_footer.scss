@@ -8,9 +8,21 @@ footer {
         .wrapper {
             border-top: 2px solid black;
             display: grid;
-            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-columns: 1fr 1fr;
+            grid-template-areas: "home home"
+                                 "sitenav about";
             padding-top: 16px;
             grid-gap: 16px;
+
+            .home-info {
+                grid-area: home;
+            }
+            .site-nav {
+                grid-area: sitenav;
+            }
+            .about-contact {
+                grid-area: about;
+            }
         }
     }
     li {
@@ -19,5 +31,20 @@ footer {
     svg {
         // not sure why this is needed
         transform: translate3d(0,2px,0);
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    footer {
+        .container {
+            .wrapper {
+                border-top: 2px solid black;
+                display: grid;
+                grid-template-columns: 1fr 1fr 1fr;
+                grid-template-areas: "home sitenav about";
+                padding-top: 16px;
+                grid-gap: 16px;
+            }
+        }
     }
 }

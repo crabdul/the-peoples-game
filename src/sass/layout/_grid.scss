@@ -6,7 +6,7 @@ $column--narrow--width: 600px;
 
 .grid {
     display: grid;
-    grid-template-columns: 1fr $column--width 1fr;
+    grid-template-columns: 16px 1fr 16px;
     grid-template-areas: ". content .";
 
     .container {
@@ -15,95 +15,30 @@ $column--narrow--width: 600px;
 
 }
 
-.narrow--grid {
-    display: grid;
-    grid-template-columns: 1fr $column--narrow--width 1fr;
-    grid-template-areas: ". content .";
-
-    .container {
-        grid-area: content;
-    }
-
-}
-
-
-
-nav {
+@media screen and (min-width: $column--width) {
     .grid {
         display: grid;
-        grid-template-columns: 1fr;
-        grid-template-areas: "navbar";
-
-        .container {
-            grid-area: navbar;
-        }
-    }
-
-    @media screen and (min-width: $column--width) {
-        .grid {
-            grid-template-columns: 1fr $column--width 1fr;
-            grid-template-areas: 
-            ". navbar .";
-        }
-    }
-}
-
-.articles {
-    .grid {
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-template-areas: "articles";
-
-        .container {
-            grid-area: articles;
-        }
-    }
+        grid-template-columns: 1fr $column--width 1fr;
+        grid-template-areas: ". content .";
     
-    @media screen and (min-width: $column--width) {
-        .grid {
-            grid-template-columns: 1fr $column--width 1fr;
-            grid-template-areas: 
-            ". articles .";
-        }
-    }
-}
-
-.photos {
-    .grid {
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-template-areas: "photos";
-
         .container {
-            grid-area: photos;
+            grid-area: content;
         }
-    }
     
-    @media screen and (min-width: $column--width) {
-        .grid {
-            grid-template-columns: 1fr $column--width 1fr;
-            grid-template-areas: 
-            ". photos .";
-        }
     }
-}
 
-footer {
-    .grid {
+    .narrow--grid {
         display: grid;
-        grid-template-columns: 1fr;
-        grid-template-areas: "footer";
-
-        .container {
-            grid-area: footer;
-        }
-    }
+        grid-template-columns: 1fr $column--narrow--width 1fr;
+        grid-template-areas: ". content .";
     
-    @media screen and (min-width: $column--width) {
-        .grid {
-            grid-template-columns: 1fr $column--width 1fr;
-            grid-template-areas: 
-            ". footer .";
+        .container {
+            grid-area: content;
         }
+    
     }
 }
+
+
+
+
