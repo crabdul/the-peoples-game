@@ -20,6 +20,7 @@ body {
 
 .header {
   margin-bottom: 32px;
+  min-height: 48px;
 }
 
 // HELPERS
@@ -58,10 +59,16 @@ body {
 .link {
   text-decoration: none;
   color: black;
+  font-weight: 600;
 }
 
 .border--left {
   border-left: 1px solid black;
+  padding-left: 8px;
+}
+
+.b-l-r {
+  border-left: 2px solid crimson;
   padding-left: 8px;
 }
 
