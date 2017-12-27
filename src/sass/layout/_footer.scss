@@ -9,8 +9,8 @@ footer {
             border-top: 2px solid black;
             display: grid;
             grid-template-columns: 1fr 1fr;
-            grid-template-areas: "home home"
-                                 "sitenav about";
+            grid-template-areas: "sitenav about"
+                                 "home home";
             padding-top: 16px;
             grid-gap: 16px;
 
