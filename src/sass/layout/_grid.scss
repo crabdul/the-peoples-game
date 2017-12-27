@@ -15,6 +15,17 @@ $column--narrow--width: 600px;
 
 }
 
+.narrow--grid {
+    display: grid;
+    grid-template-columns:  16px 1fr 16px;
+    grid-template-areas: ". content .";
+
+    .container {
+        grid-area: content;
+    }
+
+}
+
 @media screen and (min-width: $column--width) {
     .grid {
         display: grid;

@@ -1,17 +1,19 @@
 .event--list {
     img {
         width: 100%;
-
     }
 }
 
 .grid--3--col {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-areas: "item item item";
-    grid-gap: 32px;
+    grid-template-columns: 1fr;
+    grid-gap: 4px;
+}
 
-    .list-item {
-        grid-area: item;
+@media screen and (min-width: 1000px) {
+    .grid--3--col {
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 32px;
+
     }
 }
