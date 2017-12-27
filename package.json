@@ -1,7 +1,7 @@
 {
-  "name": "victor-hugo",
+  "name": "the-peoples-game",
   "version": "1.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
+  "description": "The People's Game Journal",
   "main": "index.js",
   "scripts": {
     "hugo": "gulp hugo",
@@ -11,7 +11,7 @@
     "start": "gulp server",
     "lint": "eslint src"
   },
-  "author": "",
+  "author": "Karim El Khazaani",
   "license": "MIT",
   "dependencies": {
     "autoprefixer": "^6.6.0",
