@@ -1,0 +1,16 @@
+<a href="{{ .Permalink }}" class="no--underline black--text">
+   {{ $t := (time .Params.EventDate) }}
+     {{ if($t.Before now) }}
+    <div class="event--card" style="opacity:0.5;">
+            {{ else }}
+            <div class="event--card">
+        {{ end }}
+
+            <div class="">
+                    <img src="{{ .Params.Image }}" alt="{{ .Params.Image }}">
+            </div>
+            <h2 class="item--title">{{ .Title }}</h2>
+            <p>{{ $t.Format "2 Jan 2006" }} </p>
+            <h3>{{ .Params.Location }} </h3>
+    </div>
+</a>

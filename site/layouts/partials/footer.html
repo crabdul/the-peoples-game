@@ -2,31 +2,45 @@
 	<div class="grid">
 		<div class="container">
 			<div class="wrapper">
-					<div >
-						<ul class="">
-							<li><a href="/" class="link">Home</a></li>
-							<li>
+				<div>
+					<ul class="">
+						<li>
+							<a href="/" class="link">Home</a>
+						</li>
+						<li>
+							<div class="border--left">
 								<p>
 									The People's Game is a journal exploring the intersection between football and politics
 								</p>
-							</li>
-						</ul>
-					</div>
-					<div>
-						<ul class="">
-							<li><a href="/articles" class="link">Articles</a></li>
-							<li><a href="/photos" class="link">Photos</a></li>
-							<li><a href="/events" class="link">Events</a></li>
-						</ul>
-					</div>
-		
-					<div>
-						<ul class="">
-							<li><a href="/about" class="link">About Us</a></li>
-							<li><a href="/contact" class="link">Contact</a></li>
-							{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }}
-						</ul>
-					</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div>
+					<ul class="border--left">
+						<li>
+							<a href="/articles" class="link">Articles</a>
+						</li>
+						<li>
+							<a href="/photos" class="link">Photos</a>
+						</li>
+						<li>
+							<a href="/events" class="link">Events</a>
+						</li>
+					</ul>
+				</div>
+
+				<div>
+					<ul class="border--left">
+						<li>
+							<a href="/about" class="link">About Us</a>
+						</li>
+						<li>
+							<a href="/contact" class="link">Contact</a>
+						</li>
+						{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }}
+					</ul>
+				</div>
 			</div>
 		</div>
 	</div>

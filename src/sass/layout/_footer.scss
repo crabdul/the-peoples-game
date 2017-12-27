@@ -1,6 +1,8 @@
 /* _-_-_- layout/FOOTER -_-_-_ */
 footer {
     margin: 16px 0;
+    font-family: Helvetica, sans-serif;
+    font-size: 10pt;
 
     .container {
         .wrapper {
@@ -18,5 +20,7 @@ footer {
 
     svg {
         margin-right: 8px;
+        width: 24px;
+        transform: translate3d(0,2px,0);
     }
 }
