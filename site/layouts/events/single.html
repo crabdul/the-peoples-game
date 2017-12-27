@@ -11,10 +11,12 @@
             <img src="{{ .Params.image }}" alt="{{ .Title }}" width="100%" />{{ end }} 
             <div class="single--content">
                     {{ .Content }}
-                    {{ if( .Params.Facebook )}}
-                    {{ $l := .Params.Facebook }} 
-                    {{ partial "social-icon" (dict "link" $l ) }}
-                    {{ end }}
+                    <div class="facebook-event">
+                            {{ if( .Params.Facebook )}}
+                            {{ $l := .Params.Facebook }} 
+                            {{ partial "social-icon" (dict "link" $l ) }}
+                            {{ end }}
+                    </div>
         </div>
 
     </div>
