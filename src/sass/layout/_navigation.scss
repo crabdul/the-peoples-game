@@ -3,26 +3,22 @@
 nav {
     margin-top: 16px;
     margin-bottom: 8px;
-    .logo { 
+    .logo {
         grid-area: logo;
         margin-left: auto;
-        svg{
+        svg {
             width: 100%;
         }
     }
-
     .nav--container {
         display: grid;
         grid-template-columns: 1fr;
-        grid-template-areas: 'logo'
-                             'navbar';
+        grid-template-areas: 'logo' 'navbar';
         border-bottom: 2px solid black;
         height: 140px;
-
         .navbar {
             grid-area: navbar;
             position: relative;
-            margin-bottom: 8px;
         }
     }
     @media screen and (min-width: $column--width) {
@@ -33,16 +29,15 @@ nav {
             grid-gap: 16px;
             border-bottom: 2px solid black;
             height: fit-content;
+        }
     }
-}
-
-
     ul {
         position: absolute;
         bottom: 0px;
         display: inline-flex;
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
+        grid-template-areas: "one two three" "hr hr hr";
         width: 100%;
         li {
             a {
@@ -53,16 +48,48 @@ nav {
                 font-weight: bold;
             }
         }
+        .one {
+            grid-area: one;
+        }
+        .two {
+            grid-area: two;
+        }
+        .three {
+            grid-area: three;
+        }
     }
-
     @media screen and (max-width: $column--width) {
         ul {
             text-align: center;
         }
-
         .right--block {
             margin-right: auto;
         }
     }
+}
 
+.one:hover~hr {
+    margin-left: 0%;
+    visibility: visible;
+}
+
+.two:hover~hr {
+    margin-left: 39%;
+    visibility: visible;
+}
+
+.three:hover~hr {
+    margin-left: 80%;
+    visibility: visible;
+}
+
+hr {
+    visibility: hidden;
+    grid-area: hr;
+    height: 0.25rem;
+    width: 22%;
+    margin: 0;
+    background: crimson;
+    border: none;
+    transition: .3s ease-in-out;
 }

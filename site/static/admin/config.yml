@@ -14,7 +14,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "photos" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Photos" # Used in the UI, ie.: "New Post"
@@ -41,7 +41,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Event Date", name: "eventDate", widget: "datetime"}
       - {label: "Time", name: "time", widget: "string"}
       - {label: "Location", name: "location", widget: "string"}
-      - {label: "Facebook Link", name: "facebook", widget: "string"}
+      - {label: "Facebook Link", name: "facebook", widget: "string", required: false}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
