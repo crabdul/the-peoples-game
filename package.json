@@ -51,10 +51,13 @@
     "whatwg-fetch": "^1.0.0"
   },
   "devDependencies": {
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-clean-css": "^3.9.0",
     "gulp-inject": "^4.2.0",
     "gulp-sass": "^3.1.0",
     "gulp-svgmin": "^1.2.3",
     "gulp-svgstore": "^6.1.0",
+    "postcss-sass": "^0.2.0",
     "svg-sprite-loader": "^0.1.2"
   }
 }

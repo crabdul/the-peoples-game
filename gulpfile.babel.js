@@ -1,8 +1,8 @@
 import gulp from "gulp";
 import cp from "child_process";
 import gutil from "gulp-util";
-// import postcss from "gulp-postcss";
-// import cssImport from "postcss-import";
+import postcss from "gulp-postcss";
+import cssImport from "postcss-import";
 // import cssnext from "postcss-cssnext";
 import BrowserSync from "browser-sync";
 import webpack from "webpack";
@@ -10,9 +10,10 @@ import webpackConfig from "./webpack.conf";
 import svgstore from "gulp-svgstore";
 import svgmin from "gulp-svgmin";
 import inject from "gulp-inject";
-// import replace from "gulp-replace";
-// import cssnano from "cssnano";
+import cssnano from "cssnano";
 import sass from "gulp-sass";
+import autoprefixer from "gulp-autoprefixer";
+import cleanCSS from "gulp-clean-css";
 
 const browserSync = BrowserSync.create();
 const hugoBin = `./bin/hugo.${process.platform === "win32" ? "exe" : process.platform}`;
@@ -29,25 +30,33 @@ gulp.task("build-preview", ["css", "sass", "js", "cms-assets", "hugo-preview"]);
 
 gulp.task("sass", () => (
   gulp.src("./src/sass/main.scss")
-    // .pipe(postcss([
-    //   cssImport({from: "./src/css/main.css"}),
-    //   cssnext(),
-    //   cssnano(),
-    // ]))
-    .pipe(sass())
-    .pipe(gulp.dest("./dist/css"))
-    .pipe(browserSync.stream())
+
+  .pipe(sass())
+  .pipe(autoprefixer({
+    browsers: ["last 2 versions"],
+    cascade: false
+  }))
+  .pipe(cleanCSS())
+  .pipe(gulp.dest("./dist/css"))
+  .pipe(browserSync.stream())
 ));
 
 gulp.task("css", () => (
   gulp.src("./src/css/cms.css")
+  .pipe(postcss([
+    cssImport({
+      from: "./src/css/cms.css"
+    }),
+    // cssnext(),
+    cssnano(),
+  ]))
   .pipe(gulp.dest("./dist/css"))
   .pipe(browserSync.stream())
 ));
 
 gulp.task("cms-assets", () => (
   gulp.src("./node_modules/netlify-cms/dist/*.{woff,eot,woff2,ttf,svg,png}")
-    .pipe(gulp.dest("./dist/css"))
+  .pipe(gulp.dest("./dist/css"))
 ));
 
 gulp.task("js", (cb) => {
@@ -68,7 +77,9 @@ gulp.task("svg", () => {
   const svgs = gulp
     .src("site/static/img/icons-*.svg")
     .pipe(svgmin())
-    .pipe(svgstore({inlineSvg: true}));
+    .pipe(svgstore({
+      inlineSvg: true
+    }));
 
   function fileContents(filePath, file) {
     return file.contents.toString();
@@ -76,7 +87,9 @@ gulp.task("svg", () => {
 
   return gulp
     .src("site/layouts/partials/svg.html")
-    .pipe(inject(svgs, {transform: fileContents}))
+    .pipe(inject(svgs, {
+      transform: fileContents
+    }))
     .pipe(gulp.dest("site/layouts/partials/"));
 });
 
@@ -95,7 +108,9 @@ gulp.task("server", ["hugo", "css", "sass", "cms-assets", "js", "svg"], () => {
 function buildSite(cb, options) {
   const args = options ? defaultArgs.concat(options) : defaultArgs;
 
-  return cp.spawn(hugoBin, args, {stdio: "inherit"}).on("close", (code) => {
+  return cp.spawn(hugoBin, args, {
+    stdio: "inherit"
+  }).on("close", (code) => {
     if (code === 0) {
       browserSync.reload("notify:false");
       cb();
