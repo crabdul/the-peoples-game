@@ -1,27 +1,26 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
+title: Article 1
 date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+description: >-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur luctus nisi
+  sit amet eros venenatis bibendum. Cras egestas augue ac facilisis viverra.
+  Nullam nec nisl aliquet, semper augue pellentesque, accumsan sapien.
 image: /img/blog-flavor_wheel.jpg
 ---
+Nam ut leo pretium, eleifend leo vitae, blandit nisi. Mauris nibh mauris, vestibulum eget quam sed, aliquet hendrerit quam. Curabitur ut dui diam. Nullam finibus placerat elit eu luctus. Nulla placerat erat cursus libero fermentum, eu iaculis massa placerat. Vivamus euismod purus sit amet pulvinar aliquet. Cras scelerisque nibh metus, ac pulvinar eros mattis vel. In tristique ut urna sed tincidunt. Vestibulum consequat iaculis efficitur. Nam consequat dui quis odio scelerisque, finibus convallis dolor egestas. Proin ut porta nulla. Fusce interdum dictum risus vitae accumsan.
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
 
-## What the updates mean to you
+<br>
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Integer dignissim sollicitudin sem ultrices semper. Sed quis neque eu leo scelerisque pellentesque non et lacus. Aenean eu enim quam. Sed non vehicula nisl. Vestibulum ut rutrum sem, id viverra odio. Phasellus congue sapien vitae velit pharetra, ac pellentesque ipsum ultricies. Duis convallis sed est vel posuere. Nullam vulputate felis sit amet venenatis luctus. Quisque ultricies porttitor nibh, non laoreet elit consequat sed. Aliquam efficitur eros erat. Phasellus sit amet est erat. Nulla sed lectus facilisis, tempus metus posuere, imperdiet velit. Sed ut condimentum velit. Fusce ornare eros eu felis pellentesque interdum. Sed est tortor, pretium non turpis ut, imperdiet sollicitudin odio. Fusce consectetur, leo nec consectetur consectetur, leo turpis feugiat erat, id vehicula ligula nibh a tortor.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+<br>
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Aenean non arcu placerat, euismod enim ut, congue augue. Nullam felis ipsum, sollicitudin ac convallis eget, laoreet at tellus. Nulla facilisi. Vestibulum eget nisi sollicitudin, imperdiet ante cursus, accumsan leo. Donec varius id justo eu rutrum. Mauris lorem urna, suscipit sit amet rhoncus sit amet, gravida ut diam. Nulla ac imperdiet ligula. Phasellus eu ultricies lectus. Aliquam quam magna, efficitur in commodo consequat, congue id diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus et lorem auctor, condimentum tellus a, dapibus tortor. Donec et lectus erat. Nam tristique sapien malesuada augue tincidunt, at pretium libero venenatis.
+
+<br>
+
+Ut molestie, ipsum sit amet maximus consectetur, enim nisl porttitor ex, a aliquam est arcu sed lorem. Phasellus eget turpis nec nunc consequat viverra. Cras ante ligula, tempor at risus non, laoreet laoreet eros. Duis consequat lobortis nisi, ac egestas nibh euismod nec. Maecenas tristique et arcu sed auctor. Vivamus nec luctus lectus, in cursus ligula. Nam sed dolor dui. Integer malesuada dolor nec nisi finibus auctor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nam auctor, enim ac fermentum sagittis, magna diam bibendum est, at interdum mi enim et arcu. Sed sodales pulvinar sapien. Aenean vitae leo et lorem cursus fermentum at et tellus. Sed vel mauris egestas, blandit mi et, viverra nulla. Integer non felis velit. Fusce auctor pellentesque hendrerit. Vivamus eu quam ac est suscipit posuere.
