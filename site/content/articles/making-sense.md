@@ -4,7 +4,7 @@ date: 2018-01-22T00:00:00.000Z
 description: >-
   Eric Scorehill traces the history and philosophy of a game that seeks to
   challenge the binary nature of traditional football
-image: /img/jorns 2nd triolectic.png
+image: /img/runge_diagram.png
 ---
 > “Lunatic researches are akin to unforeseen discoveries. The role of the nonexistent exists; the function of the imaginary is real \[…] It seems then that the history of the mind can be resumed in these terms: it is absurd by what it seeks, great by what it finds” – Paul Valéry (1)
 
