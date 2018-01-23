@@ -4,7 +4,7 @@ date: 2018-01-22T00:00:00.000Z
 description: 'challenging the binary nature of traditional football, by Eric Scorehilll'
 image: /img/jorns 2nd triolectic.png
 ---
-> “Lunatic researches are akin to unforeseen discoveries. The role of the nonexistent exists; the function of the imaginary is real \[…] It seems then that the history of the mind can be resumed in these terms: it is absurd by what it seeks, great by what it finds” – Paul Valéry. 
+> “Lunatic researches are akin to unforeseen discoveries. The role of the nonexistent exists; the function of the imaginary is real \[…] It seems then that the history of the mind can be resumed in these terms: it is absurd by what it seeks, great by what it finds” – Paul Valéry (1)
 
 <br />
 
@@ -20,15 +20,15 @@ With 3SF however, things are rarely so straightforward. Games frequently take a 
 
 <br />
 
-This is no easy task. Key source on 3SF, The Book of Deptford (nd.), records no less than twenty-three varying interpretations of the game.  These range widely, from those suggesting 3SF represents the folkloric survival of early forms of ritualised social bonding, to others regarding it as a purely modern invention: an experimental analogy, devised for modelling aspects of contemporary physics. 
+This is no easy task. Key source on 3SF, The -Book of Deptford (nd.), records no less than twenty-three varying interpretations of the game (2).  These range widely, from those suggesting 3SF represents the folkloric survival of early forms of ritualised social bonding, to others regarding it as a purely modern invention: an experimental analogy, devised for modelling aspects of contemporary physics. 
 
 <br />
 
-Explanations for 3SF’s emergence range from the philosophical to the conspiratorial, yet perhaps the least plausible are those that dismiss it as simply an “art” intervention. Though widespread, these theories are a rather late interpolation; no evidence exists for the game having featured in artistic contexts prior to 2006.  The recent coincidental occurrence of the 3SF World Cup in Kassel, Germany, simultaneous to the town’s famous arts festival, was therefore just that, a coincidence. Most three-sided footballers in attendance were far more interested in the town’s historic role in propagating the Rosicrucian movement, arguably something much more integral to the game’s development.  Similarly, owing to misconceptions that place 3SF’s origins in the 1960s, with the work of Asger Jorn, a well-known Danish artist and member of the avant-garde Situationist International, the game has further come to be associated with that limited sphere of activity.  
+Explanations for 3SF’s emergence range from the philosophical to the conspiratorial, yet perhaps the least plausible are those that dismiss it as simply an “art” intervention. Though widespread, these theories are a rather late interpolation; no evidence exists for the game having featured in artistic contexts prior to 2006 (3).  The recent coincidental occurrence of the 3SF World Cup in Kassel, Germany, simultaneous to the town’s famous arts festival, was therefore just that, a coincidence. Most three-sided footballers in attendance were far more interested in the town’s historic role in propagating the Rosicrucian movement, arguably something much more integral to the game’s development (4).  Similarly, owing to misconceptions that place 3SF’s origins in the 1960s, with the work of Asger Jorn, a well-known Danish artist and member of the avant-garde Situationist International, the game has further come to be associated with that limited sphere of activity (5).  
 
 <br />
 
-According to this theory, 3SF is merely a happy accident; it was never really meant it to be played. Proponents of this “Jornian” origin suggest it arose from a brief, hypothetical digression in the painter’s 1962 musings.  An idiosyncratic metaphor, a thought experiment, a visualised diagram, a daydream; it was, they suggest, the creation of an artist, trying to use science to the overturn the political philosophies of his day. No sooner described than dismissed, they argue, Jorn’s metaphor might easily have remained a purely imaginative solution. Yet after thirty years of non-existence, it happened to be revived by a disparate collection of anarchists, somewhere in a park in Scotland.  
+According to this theory, 3SF is merely a happy accident; it was never really meant it to be played. Proponents of this “Jornian” origin suggest it arose from a brief, hypothetical digression in the painter’s 1962 musings (6).  An idiosyncratic metaphor, a thought experiment, a visualised diagram, a daydream; it was, they suggest, the creation of an artist, trying to use science to the overturn the political philosophies of his day. No sooner described than dismissed, they argue, Jorn’s metaphor might easily have remained a purely imaginative solution. Yet after thirty years of non-existence, it happened to be revived by a disparate collection of anarchists, somewhere in a park in Scotland (7).  
 
 <br />
 
@@ -36,7 +36,7 @@ That the central proponents of this Jornian thesis are precisely those claiming 
 
 <br />
 
-Whilst key elements in the “Jornian” story undoubtedly took place—contemporary sources confirm as much—there are strong reasons to believe the game is actually far older.  The story has been turned on its head and needs to be set right way up: 3SF is not some whimsical “postmodern” variant of Association Football, but in fact long predates it. 
+Whilst key elements in the “Jornian” story undoubtedly took place—contemporary sources confirm as much—there are strong reasons to believe the game is actually far older (8).  The story has been turned on its head and needs to be set right way up: 3SF is not some whimsical “postmodern” variant of Association Football, but in fact long predates it (9). 
 
 <br />
 
@@ -44,7 +44,7 @@ Whilst key elements in the “Jornian” story undoubtedly took place—contempo
 
 <br />
 
-No one really knows when football in itself emerged, but when it did, it likely wasn’t understood as the specialist activity “football”, as we would it recognise today. It therefore follows, and anthropological evidence suggests, that there would have been no distinction between two-sided football and three-sided football. It is generally accepted that at the time of the game’s likely emergence the primary domestic institution was not the family, but the matrilineal clan. This produced strong bonds of horizontal solidarity between people, thus games, rituals or social gatherings, whatever we might call them, were likely conducted communally, with the free condition of each, the free condition of all. 
+No one really knows when football in itself emerged, but when it did, it likely wasn’t understood as the specialist activity “football”, as we would it recognise today. It therefore follows, and anthropological evidence suggests, that there would have been no distinction between two-sided football and three-sided football. It is generally accepted that at the time of the game’s likely emergence the primary domestic institution was not the family, but the matrilineal clan. This produced strong bonds of horizontal solidarity between people, thus games, rituals or social gatherings, whatever we might call them, were likely conducted communally, with the free condition of each, the free condition of all (10). 
 
 <br />
 
@@ -52,7 +52,7 @@ From such practices, comparative anthropology suggests, magico-social activities
 
 <br />
 
-With the advance of enclosure, settlement and agriculture one has the conditions for surpluses to arise. This means three things: a class society emerges from the accumulation of surpluses, thus one has specialisation, including in the form of religion, a priest class, who become custodians of ritual. Secondly, former matrilineal relations become patriarchal ones, initially through the formal domination of patriarchy, in a culture of ritualised king sacrifice, then its real domination, through direct male authority. Thirdly, one has the emergence of warfare, as clans fight for control of grain and cattle. 
+With the advance of enclosure, settlement and agriculture one has the conditions for surpluses to arise. This means three things: a class society emerges from the accumulation of surpluses, thus one has specialisation, including in the form of religion, a priest class, who become custodians of ritual. Secondly, former matrilineal relations become patriarchal ones, initially through the formal domination of patriarchy, in a culture of ritualised king sacrifice, then its real domination, through direct male authority. Thirdly, one has the emergence of warfare, as clans fight for control of grain and cattle (11). 
 
 <br />
 
@@ -60,7 +60,7 @@ Here too did football likely first split, between the common game, in which comm
 
 <br />
 
-Early evidence of settled football—from Bronze Age Europe, from China as a game known as Cuju, or from Mesoamerica in the Mayan period—points to the tying of games to fertility rites, or the ritualised playing out of mythological stories. In Britain, the earliest mentions of football come from Nennius, a 9th century monk and The Black Book of Carmarthen, which contains a poem known as The Apple Tree Stanzas. Intriguingly both mentions, hundreds of years apart, concern the figure of Myrddin.  
+Early evidence of settled football—from Bronze Age Europe, from China as a game known as Cuju, or from Mesoamerica in the Mayan period—points to the tying of games to fertility rites, or the ritualised playing out of mythological stories. In Britain, the earliest mentions of football come from Nennius, a 9th century monk and The Black Book of Carmarthen, which contains a poem known as The Apple Tree Stanzas. Intriguingly both mentions, hundreds of years apart, concern the figure of Myrddin (12).  
 
 <br />
 
@@ -68,11 +68,11 @@ Myrddin—a multiple-use Bardic name—was the mythological inspiration behind t
 
 <br />
 
-Though Jorn’s role in the game’s revival is much discussed, what is rarely mentioned is that when Jorn postulated 3SF, he was intensely engaged in producing an immense 32 Volume investigation into ancient ritual sites, stone circles and labyrinths, with archaeology professor P.V. Glob. Might Jorn’s proposed game also have drawn upon these same speculations? 
+Though Jorn’s role in the game’s revival is much discussed, what is rarely mentioned is that when Jorn postulated 3SF, he was intensely engaged in producing an immense 32 Volume investigation into ancient ritual sites, stone circles and labyrinths, with archaeology professor P.V. Glob. Might Jorn’s proposed game also have drawn upon these same speculations? (13) 
 
 <br />
 
-A connection between prehistoric ritual sites and early ball games is supported by the work of Professor Bruce Bradley of Exeter University, whose research has suggested the use of balls in the construction of stone circles.  It was the discovery of over 425 Neolithic balls in the vicinity of such sites that prompted Bradley’s research and that has further reinforced these suggestions.  Experimental archaeology suggests the stony spheres may have served as “lasts” or moulds for the construction of stretched-leather balls, since perished.  
+A connection between prehistoric ritual sites and early ball games is supported by the work of Professor Bruce Bradley of Exeter University, whose research has suggested the use of balls in the construction of stone circles (14).  It was the discovery of over 425 Neolithic balls in the vicinity of such sites that prompted Bradley’s research and that has further reinforced these suggestions (15).  Experimental archaeology suggests the stony spheres may have served as “lasts” or moulds for the construction of stretched-leather balls, since perished.  
 
 <br />
 
@@ -80,7 +80,7 @@ Similarly, customary linkages between traditional ball games and Celtic ritual f
 
 <br />
 
-Current archaeology, such as the work of Professor Alex Bayliss, suggests stone circles were mainly festive gathering points for scattered tribes and thus almost certainly served, amongst other things, as stadia for such ritual games, with clans gathering together at special times of year.  Much as Mesoamerican ball courts have been found to align to the solstice sun, it seems plausible that other solar aligned sites, e.g. Stonehenge, may have been similarly employed.
+Current archaeology, such as the work of Professor Alex Bayliss, suggests stone circles were mainly festive gathering points for scattered tribes and thus almost certainly served, amongst other things, as stadia for such ritual games, with clans gathering together at special times of year. (16)  Much as Mesoamerican ball courts have been found to align to the solstice sun, it seems plausible that other solar aligned sites, e.g. Stonehenge, may have been similarly employed.
 
 <br />
 
@@ -88,7 +88,7 @@ All of this would imply that the ritualisation of the game proceeded dialectical
 
 <br />
 
-As well as these stone monuments, the survival of such rites into the modern game is equally connected with labyrinths, or turf mazes. In Jorn’s native Danish these are often called Trojaborg, in Welsh Caerdroi, meaning “Troy Town” or “Castle of Turns”, a name enigmatically reflecting the place of rotation in 3SF. One famous example is the survival of “Winchester Football”—or “Winkies”—at St. Catherine’s Hill, Winchester, site of the famous “Mizmaze” labyrinth. 
+As well as these stone monuments, the survival of such rites into the modern game is equally connected with labyrinths, or turf mazes. In Jorn’s native Danish these are often called Trojaborg, in Welsh Caerdroi, meaning “Troy Town” or “Castle of Turns”, a name enigmatically reflecting the place of rotation in 3SF. One famous example is the survival of “Winchester Football”—or “Winkies”—at St. Catherine’s Hill, Winchester, site of the famous “Mizmaze” labyrinth (17). 
 
 <br />
 
@@ -112,11 +112,11 @@ The Labyrinth, between walls in the dark,
 
 Ran criss-cross a bewildering thousand ways
 
-…Figured, in sport, retreats and skirmishes … 
+…Figured, in sport, retreats and skirmishes … (18)
 
 <br />
 
-The Greek writer Arrian suggests the game originated with the Roman’s Celtic auxiliaries. However, it may date to at least to the 6th Cent. BCE, based upon evidence from an Etruscan wine jug showing youths emerging from a labyrinth with the legend “TRUIA”: implying “Troia” (Troy/Turns), but also “trias” (three).  This is supported by Plutarch's Life of Theseus, in which a similarly labyrinthine game of ‘turnings and returnings \[…] windings and twistings’ is described. This is here called geranos, from girum, to turn. Incidentally, the three ‘halves’ in a game of 3SF are called ‘rotations’ to this day.
+The Greek writer Arrian suggests the game originated with the Roman’s Celtic auxiliaries. However, it may date to at least to the 6th Cent. BCE, based upon evidence from an Etruscan wine jug showing youths emerging from a labyrinth with the legend “TRUIA”: implying “Troia” (Troy/Turns), but also “trias” (three) (19).  This is supported by Plutarch's Life of Theseus, in which a similarly labyrinthine game of ‘turnings and returnings \[…] windings and twistings’ is described. This is here called geranos, from girum, to turn. Incidentally, the three ‘halves’ in a game of 3SF are called ‘rotations’ to this day.
 
 <br />
 
@@ -128,11 +128,11 @@ Two-sided or three-sided, what is known is that the story of football in Britain
 
 <br />
 
-Throughout this period, the history of football is written by its enemies, mainly in the form of official decrees trying to ban it. These survive from 1287, 1314, 1349, 1389 and 1401 CE. What this catalogue of dates also suggests however, is that such efforts were unsuccessful. Communal ball-games—still including n and three-sided varieties—endured in both town and country in much the same form as they had done for centuries. Indeed, rare survivals exist into the present, for example Shrove Tuesday Football at Ashbourne, or the Haxey Hood in Lincolnshire. Despite its exponential increase, depictions of two-sided play remained the exception. Indeed, to this day many of these older traditions do not limit themselves to two-sided gameplay. 
+Throughout this period, the history of football is written by its enemies, mainly in the form of official decrees trying to ban it. These survive from 1287, 1314, 1349, 1389 and 1401 CE. What this catalogue of dates also suggests however, is that such efforts were unsuccessful. Communal ball-games—still including n and three-sided varieties—endured in both town and country in much the same form as they had done for centuries. Indeed, rare survivals exist into the present, for example Shrove Tuesday Football at Ashbourne, or the Haxey Hood in Lincolnshire. Despite its exponential increase, depictions of two-sided play remained the exception. Indeed, to this day many of these older traditions do not limit themselves to two-sided gameplay (20). 
 
 <br />
 
-3SF and the Classical Trivium in the Learning of their Time
+**3SF and the Classical Trivium in the Learning of their Time**
 
 <br />
 
@@ -152,7 +152,7 @@ This period was therefore marked with a range of decrees against more expansive 
 
 <br />
 
-It was the London codification of modern Association Football, at the Freemason’s Tavern in 1863, which eventually enforced the two-sided version of the game at the expense of all other varieties. Yet this codification had been strongly prefigured by earlier apparent attempts from leading intellectuals like John Dee, later Sir Francis Bacon, to similarly suppress the classical “Trivium”: the arts of grammar, dialectic and rhetoric, as traditionally taught through three-sided games. Dee, it is suggested, had sought to crush the late-16th Century’s remaining three-sided sports in favour of what would become the binarist football codes preserved through England’s public school system, even as common “mob” versions were actively suppressed elsewhere. Public school varieties hence, the theory goes, came to favour the more serious “Quadrivial” format, further abstracting these games from their social fabric, instead emphasising their roll in teaching spatial mastery to the Empire’s elites.  Ultimately, it was these public school versions, rather than the n-sided mob games, which in 1863 became the basis of the FA’s definitive Laws of the Game. Intellectual enclosure thus followed from a physical one.
+It was the London codification of modern Association Football, at the Freemason’s Tavern in 1863, which eventually enforced the two-sided version of the game at the expense of all other varieties. Yet this codification had been strongly prefigured by earlier apparent attempts from leading intellectuals like John Dee, later Sir Francis Bacon, to similarly suppress the classical “Trivium”: the arts of grammar, dialectic and rhetoric, as traditionally taught through three-sided games. Dee, it is suggested, had sought to crush the late-16th Century’s remaining three-sided sports in favour of what would become the binarist football codes preserved through England’s public school system, even as common “mob” versions were actively suppressed elsewhere. Public school varieties hence, the theory goes, came to favour the more serious “Quadrivial” format, further abstracting these games from their social fabric, instead emphasising their roll in teaching spatial mastery to the Empire’s elites (21).  Ultimately, it was these public school versions, rather than the n-sided mob games, which in 1863 became the basis of the FA’s definitive Laws of the Game. Intellectual enclosure thus followed from a physical one.
 
 <br />
 
@@ -172,7 +172,7 @@ Counter this Quadrivial ascendency, which seems to have grown to ideological dom
 
 <br />
 
-That this logic bares close relation to modern 3SF will come as no surprise when one recalls it was precisely from Böhme’s doctrine—as translated into a theory of the colour wheel by the Romantic painter Philipp Otto Runge—that Jorn was inspired to revive the game.  That said, the formulation will still appear baffling to most players, being more akin to that of German philosopher G.W.F. Hegel and his famous dialectical system, commonly reduced to the trinity of thesis-antithesis-synthesis. For Hegel, superposition was simply the immanent relation of internal limits; revolution was not a transcendental affair.
+That this logic bares close relation to modern 3SF will come as no surprise when one recalls it was precisely from Böhme’s doctrine—as translated into a theory of the colour wheel by the Romantic painter Philipp Otto Runge—that Jorn was inspired to revive the game (22).  That said, the formulation will still appear baffling to most players, being more akin to that of German philosopher G.W.F. Hegel and his famous dialectical system, commonly reduced to the trinity of thesis-antithesis-synthesis. For Hegel, superposition was simply the immanent relation of internal limits; revolution was not a transcendental affair.
 
 <br />
 
@@ -188,7 +188,7 @@ Jorn theorised this as Triolectics, developed in response to what he (mistakenly
 
 <br />
 
-Having resigned from the Situationist International, Jorn wanted to develop the “science” of situations in more playful directions, more open to the contributions of physics and mathematics, alongside those of the traditional revolutionary movement. As a proponent for left-wing communism, disillusioned by the statist capitulations of the communist movement, Jorn used triolectics to reimagine relations between individual and collective in a way that kept such categorisations open and in situational flux. 
+Having resigned from the Situationist International, Jorn wanted to develop the “science” of situations in more playful directions, more open to the contributions of physics and mathematics, alongside those of the traditional revolutionary movement. As a proponent for left-wing communism, disillusioned by the statist capitulations of the communist movement, Jorn used triolectics to reimagine relations between individual and collective in a way that kept such categorisations open and in situational flux (23). 
 
 <br />
 
@@ -196,7 +196,7 @@ Fusing dialectics with complementarity, Jorn argued dualistic polarities could b
 
 <br />
 
-For Jorn, 3SF remained an imaginary solution however, he never actually played the game. Instead, it was picked up during the 1990s by the London Psychohistorical Association (LPA): as a practical means for going beyond real abstractions such as ‘art’, ‘politics’ and ‘sport’, and as an accurate model for the complexities of “Bonini’s Paradox”. 
+For Jorn, 3SF remained an imaginary solution however, he never actually played the game. Instead, it was picked up during the 1990s by the London Psychohistorical Association (LPA): as a practical means for going beyond real abstractions such as ‘art’, ‘politics’ and ‘sport’, and as an accurate model for the complexities of “Bonini’s Paradox” (24). 
 
 <br />
 
@@ -208,11 +208,11 @@ The LPA was in touch with many fellow travellers across Europe and beyond, so wo
 
 v
 
-Within a few short years this experimental kick-about was launched into orbit, so to speak, by the Association of Autonomous Astronauts, a worldwide network of community groups intent on building their own space ships, thus transcending the monopoly on space travel held by corporations and the state. Three-sided football formed an important part of the AAA’s training program, teaching astronauts how to respond to varied terrains and contend with extra dimensions. 
+Within a few short years this experimental kick-about was launched into orbit, so to speak, by the Association of Autonomous Astronauts, a worldwide network of community groups intent on building their own space ships, thus transcending the monopoly on space travel held by corporations and the state. Three-sided football formed an important part of the AAA’s training program, teaching astronauts how to respond to varied terrains and contend with extra dimensions (25). 
 
 <br />
 
-Beyond Luther Blissett and the AAA, the first decade of the 21st century has seen the game taken up by advocates as disparate as a Belarusian telecoms company, an anti-gang violence initiative in Columbia, Oxford anthropologist Robin Dunbar—as the foundation for his so-called “Dunbar Number”—and by the Union of Data Miners and Psychic Workers, as a means to organise superpositionally, across national borders.  
+Beyond Luther Blissett and the AAA, the first decade of the 21st century has seen the game taken up by advocates as disparate as a Belarusian telecoms company, an anti-gang violence initiative in Columbia, Oxford anthropologist Robin Dunbar—as the foundation for his so-called “Dunbar Number”—and by the Union of Data Miners and Psychic Workers, as a means to organise superpositionally, across national borders (26).  
 
 <br />
 
