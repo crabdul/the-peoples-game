@@ -1,7 +1,9 @@
 ---
 title: 'Three-Sided Football, from the Palaeolithic to the Present'
 date: 2018-01-22T00:00:00.000Z
-description: 'challenging the binary nature of traditional football, by Eric Scorehilll'
+description: >-
+  Eric Scorehill traces the history and philosophy of a game that seeks to
+  challenge the binary nature of traditional football
 image: /img/jorns 2nd triolectic.png
 ---
 > “Lunatic researches are akin to unforeseen discoveries. The role of the nonexistent exists; the function of the imaginary is real \[…] It seems then that the history of the mind can be resumed in these terms: it is absurd by what it seeks, great by what it finds” – Paul Valéry (1)
@@ -40,7 +42,7 @@ Whilst key elements in the “Jornian” story undoubtedly took place—contempo
 
 <br />
 
-3SF: The First 100,000 Years
+**3SF: The First 100,000 Years**
 
 <br />
 
@@ -184,7 +186,7 @@ Jorn theorised this as Triolectics, developed in response to what he (mistakenly
 
 <br />
 
-3SF Today
+**3SF Today**
 
 <br />
 
@@ -206,7 +208,7 @@ Thus the game’s first contemporary iteration was organised by the print worker
 
 The LPA was in touch with many fellow travellers across Europe and beyond, so word of 3SF quickly spread, with games springing up in Italy under the auspices of the Luther Blissett multiple-use name. Blissett had been a footballer at Watford who’d played a high profile season with AC Milan. Around 1994, a number of individuals active in the Bologna underground suggested the name as a collective identity that anyone could use. Soon leagues were being proposed across Europe under the name Luther Blissett, with the former England international inadvertently having becoming a patron of the game.
 
-v
+<br />
 
 Within a few short years this experimental kick-about was launched into orbit, so to speak, by the Association of Autonomous Astronauts, a worldwide network of community groups intent on building their own space ships, thus transcending the monopoly on space travel held by corporations and the state. Three-sided football formed an important part of the AAA’s training program, teaching astronauts how to respond to varied terrains and contend with extra dimensions (25). 
 
@@ -216,7 +218,7 @@ Beyond Luther Blissett and the AAA, the first decade of the 21st century has see
 
 <br />
 
-Unfinished Adventures?
+**Unfinished Adventures?**
 
 <br />
 
@@ -237,3 +239,57 @@ Why should the game grow to such a renewed level of worldwide popularity now? I 
 <br />
 
 Obviously, in many ways it’s just a bit of fun, but playing three-sided football, practicing triolectics, one really does start to see things differently. It really does open up new angles on familiar problems and maybe that’s a start.
+
+<br />
+
+<br />
+
+\*The collective pseudonym Eric Scorehill reflects the collective labour that has gone into this research and the fact that others, who prefer to write anonymously, have also contributed material here. Moreover, 3SF has always been a collective project anyway; there is long tradition of using collective pseudonyms when playing and writing about three-sided football
+
+
+
+<br />
+
+<br />
+
+**references:**
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+1.  (1) Paul Valéry, “Fragment from ‘On Poe’s Eureka,’” in Selected Writings (New York: New Directions, 1964), 123.
+2.   (2)Anon, The Book of Deptford (Deptford, n.d.).
+3.   (3) Christopher Collier, “Adventures of the Triolectic: Art, Politics and Three-Sided Football,” in Picturing the Beautiful Game: Essays on Soccer and Visual Culture, ed. Daniel Haxall (New York: Bloomsbury, 2018), 374–404.
+4. (4)  Lutz Mastmeyer, ed., 2nd Worldcup in Three Sided Football (Kassel: FSC Dynamo Wyndrad, 2017); Luther Blisset, “The Situationists as Rosicrucians,” Here and Now: Guy Debord Supplement, no. 16/17 (Winter  -1996 1995): xix–xxv.
+5.  (5) Gareth May, “Three-Sided Football: It’s a Game of Three Thirds,” The Telegraph, May 16, 2014, http://www.telegraph.co.uk/men/active/10788598/Three-sided-football-its-a-game-of-three-thirds.html.
+6.  (6) Asger Jorn, The Natural Order and Other Texts, trans. Peter Shield (Aldershot: Ashgate, 2002).
+7.  (7) London Psychogeographical Association, “London Psychogeographical Association Presents the Luther Blissett Three-Sided Football League,” Fatuous Times Noise and Politics, no. 4 (n.d.); London Psychogeographical Association, “Luther Blissett Three-Sided Football League,” London Psychogeographical Association Newsletter, no. 8 (Samhain 1994); Luther Blissett Three-Sided Football League, “First All London 3-Sided Football Match (Flyer),” April 9, 1995, Infoshop 56A.
+8. (8)  “Manifesto of the Social Imagination: Winterschool 2-8 January 1994,” Variant, Winter/Spring 1994; Florian Cramer, “Literatur Und Fußball,” Dahlemer Diwan (Berlin, Germany: Radio Charlie 87.9, June 9, 1996).
+9. (9)  Strategic Optimism Football, “Special Solstice Ritual Beanfield Anniversary Three-Sided Football Game Souvenir Programme” (New Cross Triangle Psychogeographical Association, June 21, 2015).
+10.  (10) Gabriel Kuhn, Soccer vs. the State: Tackling Football and Radical Politics (Oakland, CA: PM Press, 2011).
+11. (11)  London Psychogeographical Association and Archaeogeodetic Association, The Great Conjunction: A Report by the London Psychogeographical Association and the Archaeogeodetic Association. (London: Unpopular Books, 1993).
+12.  (12) Mastmeyer, 2nd Worldcup in Three Sided Football.
+13.  (13) P. V. Glob, Danish Prehistoric Monuments: Denmark from the Stone Age to the Vikings (London: Faber and Faber Ltd, 1971); Asger Jorn et al., Signes Graves Sur Les Églises de l’Eure et Du Calvados (Copenhagen: Borgen, 1963).
+14.  (14) University of Exeter, “Discovering the Secrets of Stonehenge,” ScienceDaily (blog), November 30, 2010, www.sciencedaily.com/releases/2010/11/101130010931.htm.
+15.  (15) Dorothy Marshall N., “Carved Stone Balls,” Proceedings of the Society Antiquities Scotland 108 (1977 1976): 40–72.
+16.  (16) Alex Bayliss et al., “Islands of History: The Late Neolithic Timescape of Orkney,” Antiquity 91, no. 359 (October 2017): 1171–88, https://doi.org/10.15184/aqy.2017.140.
+17. (17)  Intriguingly, given St. Catherine’s connection with the wheel, this may have been recut into a more conventional, quadratic configuration in the 17th Cent..
+18. (18)  Virgil, The Aeneid. Trans. Robert Fitzgerald. New York, trans. Robert Fitzgerald (New York, 1984).
+19.  (19) Thomas Greene M., “Labyrinth Dances in the French and English Renaissance,” Renaissance Quarterly, December 2001, https://www.thefreelibrary.com/Labyrinth dances in the French and English Renaissance.-a082554401. One should not be distracted by the use of horses here; mounted players were a feature of traditional “mob football” for centuries and indeed, survive into modern 3SF, although there more usually through the use of bicycles – that most trusted of proletarian steeds.
+20. (20)  Kuhn, Soccer vs. the State.
+21.  (21) DAta Miners and Travailleurs Psychique, “DAMTP Newsletter #16,” November 2016.
+22.  (22) These connections receive unlikely support from the confirmed parallels between Kabbalah and 3SF, via the medieval text the Sefer Yetzirah with its hexagonal projections of the “cube of space”—as well as the numerological systems of the Islamic Hurufi. See: NXTPA, “Triolectical Football in N-Dimensional Space: Spectral Analysis and Kabbalah Quantum Letterism,” Future Psychogeographies 2, no. n (August 2015): 1–8.
+23.  (23) Peter Shield, Comparative Vandalism: Asger Jorn and the Artistic Attitude to Life (Aldershot: Ashgate/Borgen, 1998).
+24.  (24) In the words of Paul Valéry again, "Everything simple is false. Everything which is complex is unusable" (Notre destin et les lettres, 1937).
+25.  (25) AAA Maya, “Off the Map!,” in See You In Space! The Fifth Annual Report of the Association of Autonomous Astronauts (London: The Time Travel Unit & Irie AAA, 2000), 14–19.
+26.  (26) Prkvadrat, “3G Football - YouTube,” youtube.com, September 18, 2012, https://www.youtube.com/watch?v=sv_tGgwZfhk; Robin Dunbar, “A Game of Three Halves,” New Scientist Live (blog), September 22, 2016, https://live.newscientist.com/robin-dunbar/; DAta Miners and Travailleurs Psychique, “First Flux Footballum Equinox Fest, London, Amsterdam, Cararra,” DAMTP Newsletter, no. 15 (8PC \[vulg 2016]).
+
+
+```
+
+```
