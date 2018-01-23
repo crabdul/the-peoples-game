@@ -15,10 +15,8 @@ Aenean non arcu placerat, euismod enim ut, congue augue. Nullam felis ipsum, sol
 
 <br>
 
-![](/img/about-jumbotron.jpg)
+![null](/img/about-jumbotron.jpg)
 
-> Photo caption
-
-
+>> _Photo caption_
 
 Ut molestie, ipsum sit amet maximus consectetur, enim nisl porttitor ex, a aliquam est arcu sed lorem. Phasellus eget turpis nec nunc consequat viverra. Cras ante ligula, tempor at risus non, laoreet laoreet eros. Duis consequat lobortis nisi, ac egestas nibh euismod nec. Maecenas tristique et arcu sed auctor. Vivamus nec luctus lectus, in cursus ligula. Nam sed dolor dui. Integer malesuada dolor nec nisi finibus auctor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nam auctor, enim ac fermentum sagittis, magna diam bibendum est, at interdum mi enim et arcu. Sed sodales pulvinar sapien. Aenean vitae leo et lorem cursus fermentum at et tellus. Sed vel mauris egestas, blandit mi et, viverra nulla. Integer non felis velit. Fusce auctor pellentesque hendrerit. Vivamus eu quam ac est suscipit posuere.
