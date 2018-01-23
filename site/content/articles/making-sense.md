@@ -16,6 +16,8 @@ Just imagine for a moment, a game of football played out between three teams, ra
 
 In fact, such a game exists, with new leagues springing up around the world, from Belarus to Bogotá, Melbourne to Malawi, Borneo to Bilbao. Played by three teams, between three goals, usually on a hexagonal pitch, three-sided football (3SF) presents a unique, transformative reworking of traditional football’s binary logic. According to its provisional codification, stemming from the game’s 1990s re-discovery, there are only three rules: Firstly, naturally, there are three teams. Secondly, victory falls to the team who concedes the fewest, rather than scores the most. Thirdly, finally, the ball must be round. 
 
+![Modern three-sided football pitch, as laid out for team’s “Y”, “R” and “B”. (Image courtesy Ron Madski)](/img/pitch_diagram_b.tiff)
+
 <br />
 
 With 3SF however, things are rarely so straightforward. Games frequently take a turn for the unexpected and even this minimal basis enjoys (ir)regular diversions. Each game is not only a contest, but also a negotiation, of strategy and subterfuge. Traditional ball skills become entangled with an intuition for the game’s grammar and logic, plus the requisite rhetorical dexterity to convince one’s opponents to abandon an attack and turn on each other instead. For this 3SF has sometimes been spun as a collision of conventional football, chess and poker. Weaving collaboration and betrayal into the competitive fabric of two-sided sports, teams make and break alliances through dizzying tactical twists. The following sketch will unpick 3SF’s disputed beginnings, themselves no less labyrinthine, as well as examining some deeper questions the game throws up. 
@@ -43,6 +45,8 @@ Whilst key elements in the “Jornian” story undoubtedly took place—contempo
 <br />
 
 **3SF: The First 100,000 Years**
+
+![Three women collaborate in a three-sided game of early East Asian football variant “Cuju” (image courtesy Ron Madski)](/img/cuju.jpeg)
 
 <br />
 
@@ -75,6 +79,8 @@ Though Jorn’s role in the game’s revival is much discussed, what is rarely m
 <br />
 
 A connection between prehistoric ritual sites and early ball games is supported by the work of Professor Bruce Bradley of Exeter University, whose research has suggested the use of balls in the construction of stone circles (14).  It was the discovery of over 425 Neolithic balls in the vicinity of such sites that prompted Bradley’s research and that has further reinforced these suggestions (15).  Experimental archaeology suggests the stony spheres may have served as “lasts” or moulds for the construction of stretched-leather balls, since perished.  
+
+![Examples of some of the hundreds of prehistoric balls found in the vicinity of stone circles (image courtesy the Ashmolean Museum).](/img/stoneballs.jpeg)
 
 <br />
 
@@ -136,6 +142,8 @@ Throughout this period, the history of football is written by its enemies, mainl
 
 **3SF and the Classical Trivium in the Learning of their Time**
 
+![Traditional diagrammatic representation of the classical Trivium (image courtesy Ron Madski).](/img/trivium.jpeg)
+
 <br />
 
 The real change began in the 16th and 17th centuries. Again, this was for material reasons. Just as football’s initial transformations followed certain changes in the mode of production, so too here. Again, enclosure was the catalyst.
@@ -172,9 +180,13 @@ The Quadrivialists, it is suggested, sought to marginalise the teachings of the 
 
 Counter this Quadrivial ascendency, which seems to have grown to ideological dominance through “Atlanticist” Rosicrucianism, the Trivial counter-tendency unexpectedly resurfaced elsewhere, from a heretic of that same tradition, the German mystic Jakob Böhme. His doctrine concerning the mystic becoming of the Trinity: A (or God) becomes other to itself as ¬A (or Man) in order to achieve a new, higher unity as simultaneously A∧¬A (Divine becoming) displays a rhetorical, dialectical grammar, a three-phase movement that breaks down the traditional laws of abstract identity. It thus echoes the Trivialists own motto: “tria sequuntur tria” \[“three follows from three”].
 
+![Diagram found in the papers of G.W.F. Hegel, seemingly depicting his dialectical system (image courtesy Felix Meiner Verlag, Hamburg).](/img/hegel_triangle.png)
+
 <br />
 
 That this logic bares close relation to modern 3SF will come as no surprise when one recalls it was precisely from Böhme’s doctrine—as translated into a theory of the colour wheel by the Romantic painter Philipp Otto Runge—that Jorn was inspired to revive the game (22).  That said, the formulation will still appear baffling to most players, being more akin to that of German philosopher G.W.F. Hegel and his famous dialectical system, commonly reduced to the trinity of thesis-antithesis-synthesis. For Hegel, superposition was simply the immanent relation of internal limits; revolution was not a transcendental affair.
+
+![Diagram on the construction of Philipp Otto Runge’s colour wheel (image from Philipp Otto Runge, Fabenkugel, Hamburg, Friedrich Perthes, 1810)](/img/runge_diagram.png)
 
 <br />
 
